@@ -1,5 +1,5 @@
 # NerdWare
-Jamie Forest,Ethan Cort Harveys Latest Application made accesable to the public.
+Jamie Forest,Ethan Cort and Harveys Latest Application made accesable to the public.
 
 Version 2 Released On 16/03/2020
 
